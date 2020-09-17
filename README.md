@@ -9,6 +9,6 @@ pip install pyserial
 
 ## usage
 0. change COMPORT_NAME in script (main.py).
-1. input text and "Enter" then send message.
-
-2. when receive message,  (polling 0.1 sec)
+1. > python main.py
+2. input text and "Enter" then send message.
+3. when receive message,  (polling 0.1 sec)
